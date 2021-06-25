@@ -1,6 +1,6 @@
 # All_Stocks_Analysis_Challenge
 ## Project Overview
-I am so glad that the macro created to help you review the stock information you selected.  I have reviewed the program created to see if there is a way to make it run more quickly, with more stock options for the future.  The refactored macro will help you get the information you need on the new stock options selected more quickly.  
+It is good to hear that the program for your stock review has been useful.  I have reviewed the program to see if there are any ways to make it run more efficiently, with more stock options for the future.  The refactored program will help you get the information you need on your selected stock option more quickly.  
 
 ### Results
 With the refactored program I was able to pull the information needed in less than half the time it took to run the original program.  Please see the run times for both 2017 and 2018 below.
