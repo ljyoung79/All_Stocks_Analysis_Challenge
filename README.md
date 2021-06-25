@@ -10,6 +10,7 @@ With the refactored program I was able to pull the information needed in less th
 
 ![green_stock_2018_runtime](https://user-images.githubusercontent.com/84556072/123492878-03e62a00-d5d8-11eb-9530-4104ba892363.png)
 ![VBA_2018_runtime](https://user-images.githubusercontent.com/84556072/123492888-09dc0b00-d5d8-11eb-8bd1-3f3b60e9d333.png)
+
 As you can see the refactored program was able to get the same information, but much more quickly.  
 
 ## Advantages & Disadvantages of Refactoring
